@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1464988635157,
+        "author": "ben",
+        "text": "*abc*"
+    },
+    {
+        "id": 1464988636500,
+        "author": "ben",
+        "text": "*abc*"
+    },
+    {
+        "id": 1464988717637,
+        "author": "evil",
+        "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+    },
+    {
+        "id": 1492073344110,
+        "author": "梁朋杰",
+        "text": "喜欢你"
+    },
+    {
+        "id": 1492581557237,
+        "author": "笑话",
+        "text": "你真的很美"
+    },
+    {
+        "id": 1492582591939,
+        "author": "天天",
+        "text": "你好"
+    },
+    {
+        "id": 1492584880716,
+        "author": "xinde",
+        "text": "haode"
+    }
+]
